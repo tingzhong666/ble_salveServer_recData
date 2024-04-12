@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_err.h": "c",
+			"nvs_flash.h": "c",
+			"esp_system.h": "c",
+			"esp_log.h": "c",
+			"esp_bt_main.h": "c",
+			"esp_gatts_api.h": "c",
+			"esp_bt.h": "c",
+			"*.inc": "c",
+			"cstring": "c",
+			"variant": "c",
+			"string.h": "c",
+			"*.tcc": "c",
+			"format": "c"
+		},
+		"C_Cpp.clang_format_fallbackStyle": "WebKit"
+	}
+}
